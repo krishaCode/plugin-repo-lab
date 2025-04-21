@@ -1,6 +1,8 @@
 [
   {
     "name": "krishan Plugin",
-    "entry": "./plugins/krishan-plugin/plugin.js"
+
+
+    "entry": "./plugins/new-plugin/plugin.js"
   }
 ]
